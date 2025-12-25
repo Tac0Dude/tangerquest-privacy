@@ -1,27 +1,27 @@
-# Politique de confidentialité – TangerQuest
+# Privacy Policy – TangerQuest
 
-Cette application a été développée dans le cadre d’un projet scolaire.
+This application was developed as part of a school project.
 
-## Collecte des données
-L’application utilise des services tiers fournis par Google Firebase
-(notamment l’authentification et la base de données en temps réel).
-Ces services peuvent collecter des données techniques nécessaires
-au fonctionnement de l’application.
+## Data Collection
+The application uses third-party services provided by Google Firebase
+(including authentication and the real-time database).
+These services may collect technical data necessary
+for the operation of the application.
 
-## Utilisation des données
-Les données collectées sont utilisées uniquement pour :
-- le fonctionnement de l’application
-- les fonctionnalités prévues dans le cadre du projet scolaire
+## Use of Data
+The collected data is used solely for:
+- the operation of the application
+- the features provided as part of the school project
 
-## Partage des données
-Aucune donnée personnelle n’est vendue ou partagée à des fins commerciales.
+## Data Sharing
+No personal data is sold or shared for commercial purposes.
 
-## Stockage et sécurité
-Les données sont stockées via les services Firebase de Google.
+## Data Storage and Security
+Data is stored using Google Firebase services.
 
-## Suppression des données
-Pour toute demande de suppression de données, contactez :
+## Data Deletion
+For any data deletion request, please contact:
 ludovic.jaccard@he-arc.ch
 
 ## Contact
-Email : ludovic.jaccard@he-arc.ch
+Email: ludovic.jaccard@he-arc.ch
