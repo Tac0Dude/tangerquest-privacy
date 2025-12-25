@@ -21,7 +21,7 @@ Les données sont stockées via les services Firebase de Google.
 
 ## Suppression des données
 Pour toute demande de suppression de données, contactez :
-EMAIL_DE_CONTACT
+ludovic.jaccard@he-arc.ch
 
 ## Contact
-Email : EMAIL_DE_CONTACT
+Email : ludovic.jaccard@he-arc.ch
